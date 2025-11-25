@@ -17,4 +17,5 @@ You can keep it open on one of your tabs while working for efficiency, that way 
 - 💾 Automatically saves tasks  
 - 📊 Displays counter of completed & uncompleted tasks
 
----
+<img width="400" height="460" alt="Picture1" src="https://github.com/user-attachments/assets/541b391f-034f-4b48-a35a-37e2342c4cdb" />
+
