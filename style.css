@@ -1,0 +1,96 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #3b1212;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+#todo-container {
+  background: #f2bbbb;
+  padding: 20px;
+  width: 380px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#header h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#todo-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input-item {
+  flex: 1;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+#input-button {
+  padding: 8px 14px;
+  cursor: pointer;
+  background: #4c77a5;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  transition: 0.2s;
+}
+
+#input-button:hover {
+  background: #3b5b7f;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+label {
+  flex: 1;
+}
+
+.edit-btn, 
+.delete-btn {
+  cursor: pointer;
+  padding: 4px 8px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+.edit-btn {
+  background: #7a7873;
+  color: white;
+}
+
+.delete-btn {
+  background: #9e404a;
+  color: white;
+}
+
+.edit-btn:hover {
+  background: #52504d;
+}
+
+.delete-btn:hover {
+  background: #5e2b30;
+}
