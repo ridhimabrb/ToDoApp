@@ -2,7 +2,7 @@
 
 A simple and interactive To-Do List App built using **HTML, CSS, and JavaScript**.  
 You can add tasks, mark them as completed, edit them, or delete them — and all tasks are saved using **localStorage**, so they remain even after refreshing the page.
-You can keep it open on of your tabs while working for efficiency, that way you don't feel as overwhelmed ;)
+You can keep it open on one of your tabs while working for efficiency, that way you don't feel as overwhelmed ;)
 
 ---
 
