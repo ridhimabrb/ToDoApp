@@ -5,7 +5,7 @@ You can add tasks, mark them as completed, edit them, or delete them — and all
 
 ---
 
-## 🔗 **Demo Link:** 
+## 🔗 **Demo Link:** https://ridhimabrb.github.io/ToDoApp/
 
 ## ✨ Features
 
